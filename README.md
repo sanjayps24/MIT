@@ -1,5 +1,4 @@
 # MIT Mysore 
-## DevOps workflow
-
+## DevOps 
 ### Learning Journey
 ### It contains the Learning Guidelines of Git and many more.
