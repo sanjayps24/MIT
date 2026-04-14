@@ -1,2 +1,2 @@
 Hello! Welcome all
-It is the file that includes devops topics and learning.
+It is the file that includes devops topics and as well as learning.
